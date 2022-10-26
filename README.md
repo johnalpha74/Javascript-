@@ -1,2 +1,2 @@
-# bootstrap
-This repo is all about learning bootstrap
+# Javascript
+This repo is all about learning javascript
